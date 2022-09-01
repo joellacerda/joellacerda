@@ -1,16 +1,20 @@
-### Hi there 👋
+### Olá! 👋
 
-<!--
-**Jolesu/Jolesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Joel Lacerda. Meu objetivo é trabalhar com Web Development e programação de aplicativos em Swift.
 
-Here are some ideas to get you started:
+📍 Atualmente morando em Fortaleza/CE.\
+🎓 Formado em Direito pela Universidade Federal do Ceará (UFC).\
+💻 Estudante de Ciência da Computação pela University of the People (UoPeople).\
+⚖️ Atuei como Assessor Jurídico no Ministério Público do Ceará (MPCE) no período de 2017-2021.\
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fora do mundo digital (mas nem tanto), meus hobbies incluem leitura de romances e ficção, games e ouvir música.
+
+
+### Tecnologias
+
+<p align="left">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
+<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" height="25"/>
+</p>
