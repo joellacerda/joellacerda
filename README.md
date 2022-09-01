@@ -5,9 +5,9 @@ Meu nome é Joel Lacerda. Meu objetivo é trabalhar com Web Development e progra
 📍 Atualmente morando em Fortaleza/CE.\
 🎓 Formado em Direito pela Universidade Federal do Ceará (UFC).\
 💻 Estudante de Ciência da Computação pela University of the People (UoPeople).\
-⚖️ Atuei como Assessor Jurídico no Ministério Público do Ceará (MPCE) no período de 2017-2021.\
+⚖️ Atuei como Assessor Jurídico no Ministério Público do Ceará (MPCE) no período de 2017-2021.
 
-Fora do mundo digital (mas nem tanto), meus hobbies incluem leitura de romances e ficção, games e ouvir música.
+Fora do mundo digital (mas nem tanto), meus hobbies incluem leitura, games e ouvir música.
 
 
 ### Tecnologias
