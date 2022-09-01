@@ -29,8 +29,8 @@ Minha paixão por aprender novas línguas e meu amor por tecnologia resultaram n
 My name is Joel Lacerda.
 
 📍 Currently living in Fortaleza, Brazil\
-🎓 Bachelor of Laws from the Federal University of Ceará\
-💻 Computer Science Student at the University of the People\
+🎓 Bachelor of Laws from the Universidade Federal do Ceará (UFC)\
+💻 Computer Science Student at the University of the People (UoPeople)\
 ⚖️ Worked as a Legal Advisor for the State Prosecution Office during 2017-2021
 
 ### Skills
