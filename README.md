@@ -1,6 +1,6 @@
 ### Olá! 👋 🇧🇷
 
-Meu nome é Joel Lacerda.
+Meu nome é Joel Lacerda, aluno de Desenvolvimento Full-Stack na Digital College.
 
 📍 Atualmente morando em Fortaleza/CE\
 🎓 Bacharel em Direito pela Universidade Federal do Ceará (UFC)\
@@ -26,7 +26,7 @@ Minha paixão por aprender novas línguas e meu amor por tecnologia resultaram n
 
 ### Hello! 👋 🇬🇧
 
-My name is Joel Lacerda.
+My name is Joel Lacerda, a Full-Stack Development student at Digital College.
 
 📍 Currently living in Fortaleza, Brazil\
 🎓 Bachelor of Laws from the Universidade Federal do Ceará (UFC)\
