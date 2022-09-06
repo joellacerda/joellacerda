@@ -50,3 +50,4 @@ Meu nome é Joel Lacerda, aluno de Desenvolvimento Full-Stack na Digital College
 Minha paixão por aprender novas línguas e meu amor por tecnologia resultaram no meu sempre crescente interesse em aprender programação. Meus objetivos incluem trabalhar com desenvolvimento web e/ou desenvolvimento mobile, com foco em Swift. Fora do mundo digital (mas nem sempre), meus hobbies incluem ler romances e ficção, ouvir música e jogar com meus amigos.
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joellacerdev&show_icons=true&theme=cobalt)
