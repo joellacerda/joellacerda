@@ -12,13 +12,16 @@ My name is Joel Lacerda, a Full-Stack Development student at Digital College.
 ##
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='20px' height='20px'> Skills
-
+<div>
+<a href="https://github.com/joellacerdev">
 <p align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" height="25"/>
 </p>
+  </a>
+  </div>
 
 ##
 
@@ -37,5 +40,8 @@ My passion for learning new languages and my love for technology have resulted i
 
 
 ##
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joellacerdev&show_icons=true&theme=cobalt) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joellacerdev&langs_count=3)](https://github.com/joellacerdev/github-readme-stats)
+<div align="left">
+  <a href="https://github.com/joellacerdev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joellacerdev&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joellacerdev&layout=compact&langs_count=7&theme=cobalt"/></a>
+</div>
