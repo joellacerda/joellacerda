@@ -40,8 +40,8 @@ My passion for learning new languages and my love for technology have resulted i
 
 
 ##
-<div align="left">
+<div align="center">
 <a href="https://github.com/joellacerdev">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joellacerdev&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joellacerdev&layout=compact&langs_count=7&theme=cobalt"/></a>
+<img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=joellacerdev&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/> 
+<img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joellacerdev&layout=compact&langs_count=7&theme=cobalt"/></a>
 </div>
