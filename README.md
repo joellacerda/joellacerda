@@ -5,8 +5,8 @@
 My name is Joel Lacerda, a Full-Stack Development student at Digital College.
 
 📍 Currently living in Fortaleza, Brazil\
-🎓 Bachelor of Laws from the Universidade Federal do Ceará (UFC)\
 💻 Computer Science Student at the University of the People (UoPeople)\
+🎓 Bachelor of Laws from the Universidade Federal do Ceará (UFC)\
 ⚖️ Worked as a Legal Advisor for the State Prosecution Office during 2017-2021
 
 ##
