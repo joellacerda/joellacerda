@@ -20,8 +20,8 @@ My name is Joel Lacerda, a Full-Stack Development student at Digital College.
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" height="25"/>
 </p>
-  </a>
-  </div>
+</a>
+</div>
 
 ##
 
@@ -41,7 +41,7 @@ My passion for learning new languages and my love for technology have resulted i
 
 ##
 <div align="left">
-  <a href="https://github.com/joellacerdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joellacerdev&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joellacerdev&layout=compact&langs_count=7&theme=cobalt"/></a>
+<a href="https://github.com/joellacerdev">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joellacerdev&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joellacerdev&layout=compact&langs_count=7&theme=cobalt"/></a>
 </div>
