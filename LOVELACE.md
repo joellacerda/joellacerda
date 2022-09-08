@@ -1,3 +1,4 @@
+<div align="justify">
 <img alt="Portrait of Ada Lovelace" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Ada_Lovelace_color.svg/440px-Ada_Lovelace_color.svg.png" align="left" height="250" />
 
 ### Quem foi Ada Lovelace?
@@ -17,3 +18,4 @@ Ada sugeriu a Babbage um plano de como sua máquina analítica poderia calcular 
 ##
 
 Embora tenha vivido uma vida curta, assim como a de seu pai, Ada é responsável por grande parte do desenvolvimento científico e tecnológico do que conhecemos por computação moderna. A condessa carrega o título de mãe da programação.
+  </div>
