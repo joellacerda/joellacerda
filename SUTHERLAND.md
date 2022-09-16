@@ -3,7 +3,7 @@
 
 ### Quem foi Jeff Sutherland?
 
-Este, com certeza é uma das figuras mais importantes na história do Scrum. Ele é considerado um dos “pais” dessa metodologia por ser um de seus criadores, fundador da Scrum Inc. e co-autor do Manifesto Ágil. Apesar de ser uma metodologia extremamente atual, o Scrum não é tão novo assim. Jeff, em conjunto com <a href="https://en.wikipedia.org/wiki/Ken_Schwaber">Ken Schwaber</a>, criaram o Scrum em 1993, na Easel Corporation, com o intuito de mudar a forma como o desenvolvimento de Software era gerenciado. Porém, é importante ressaltar que, assim como em qualquer outra área de conhecimento, diversos outros profissionais também contribuíram para a metodologia chegar no ponto que está hoje.
+Este com certeza é uma das figuras mais importantes na história do Scrum. Ele é considerado um dos “pais” dessa metodologia por ser um de seus criadores, fundador da Scrum Inc. e co-autor do <a href="http://agilemanifesto.org/iso/ptbr/manifesto.html">Manifesto Ágil</a>. Apesar de ser uma metodologia extremamente atual, o Scrum não é tão novo assim. Jeff, em conjunto com <a href="https://en.wikipedia.org/wiki/Ken_Schwaber">Ken Schwaber</a>, criaram o Scrum em 1993, na Easel Corporation, com o intuito de mudar a forma como o desenvolvimento de Software era gerenciado. Porém, é importante ressaltar que, assim como em qualquer outra área de conhecimento, diversos outros profissionais também contribuíram para a metodologia chegar no ponto que está hoje.
 
 ##
 
