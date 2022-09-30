@@ -13,15 +13,17 @@ My name is Joel Lacerda, a Full-Stack Development student at Digital College.
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='20px' height='20px'> Skills
 <div>
-<a href="https://github.com/joellacerdev">
 <p align="left">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
-<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25"/>
+<a href="https://github.com/joellacerdev"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="28"/></a>
+<a href="https://github.com/joellacerdev"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="28"/></a>
+<a href="https://github.com/joellacerdev"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="28"/></a>
+<a href="https://github.com/joellacerdev"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="28"/></a>
+<a href="https://github.com/joellacerdev"><img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" height="28"/></a>
+<a href="https://github.com/joellacerdev"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28"/></a>
+<a href="https://github.com/joellacerdev"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black" height="28"/></a>
+<a href="https://github.com/joellacerdev"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" height="28"/></a>
+<a href="https://github.com/joellacerdev"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" height="28"/></a>
 </p>
-</a>
 </div>
 
 ##
@@ -43,7 +45,6 @@ My passion for learning new languages and my love for technology have resulted i
 
 ##
 <div align="center">
-<a href="https://github.com/joellacerdev">
-<img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=joellacerdev&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/> 
-<img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joellacerdev&layout=compact&langs_count=7&theme=cobalt"/></a>
+<a href="https://github.com/joellacerdev"><img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=joellacerdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></a>
+<a href="https://github.com/joellacerdev"><img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joellacerdev&layout=compact&langs_count=7&theme=dark"/></a>
 </div>
