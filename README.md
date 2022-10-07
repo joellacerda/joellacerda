@@ -27,9 +27,10 @@ My name is Joel Lacerda, a Full-Stack Development student at Digital College who
 
 ##
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='20px' height='20px'> About Me
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='20px' height='20px'> Projects and Achievements
 
-My passion for learning new languages and my love for technology have resulted in my ever-increasing interest in learning to code. My goals include working with web development and/or mobile development, with a focus on Swift. Outside of the digital world (but not always), my hobbies include reading novels and fiction, listening to music, and playing games with my friends.
+- [My freeCodeCamp certification projects.](https://joellacerdev.github.io/freeCodeCamp/)
+- [100 Days of Code Challenge log.](https://github.com/joellacerdev/100-days-of-code/blob/master/log.md)
 
 ##
 
@@ -44,10 +45,9 @@ My passion for learning new languages and my love for technology have resulted i
 
 ##
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='20px' height='20px'> Projects and Achievements
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='20px' height='20px'> About Me
 
-- [My freeCodeCamp certification projects.](https://joellacerdev.github.io/freeCodeCamp/)
-- [100 Days of Code Challenge log.](https://github.com/joellacerdev/100-days-of-code/blob/master/log.md)
+My passion for learning new languages and my love for technology have resulted in my ever-increasing interest in learning to code. My goals include working with web development and/or mobile development, with a focus on Swift. Outside of the digital world (but not always), my hobbies include reading novels and fiction, listening to music, and playing games with my friends.
 
 ##
 
