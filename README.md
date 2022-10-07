@@ -42,8 +42,15 @@ My passion for learning new languages and my love for technology have resulted i
 <a href="https://www.linkedin.com/in/joellacerdaol/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://stackoverflow.com/users/20174956/joel-lacerda"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 
+##
+
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='20px' height='20px'> Projects and Achievements
+
+- [My freeCodeCamp certification projects.](https://joellacerdev.github.io/freeCodeCamp/)
+- [100 Days of Code Challenge log.](https://github.com/joellacerdev/100-days-of-code/blob/master/log.md)
 
 ##
+
 <div align="center">
 <a href="https://github.com/joellacerdev"><img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=joellacerdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></a>
 <a href="https://github.com/joellacerdev"><img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joellacerdev&layout=compact&langs_count=7&theme=dark"/></a>
