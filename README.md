@@ -29,8 +29,8 @@ My name is Joel Lacerda, a Full-Stack Development student at Digital College who
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='20px' height='20px'> Projects and Achievements
 
-- [My freeCodeCamp certification projects.](https://joellacerdev.github.io/freeCodeCamp/)
-- [100 Days of Code Challenge log.](https://github.com/joellacerdev/100-days-of-code/blob/master/log.md)
+- <a href="https://joellacerdev.github.io/freeCodeCamp/" target="_blank">My freeCodeCamp certification projects.</a>
+- <a href="https://github.com/joellacerdev/100-days-of-code/blob/master/log.md" target="_blank">100 Days of Code Challenge log.</a>
 
 ##
 
