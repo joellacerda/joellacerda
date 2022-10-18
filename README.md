@@ -20,7 +20,6 @@ My name is Joel Lacerda, a Full-Stack Development student at Digital College who
 <a href="https://github.com/joellacerdev"><img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" height="28"/></a>
 <a href="https://github.com/joellacerdev"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28"/></a>
 <a href="https://github.com/joellacerdev"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black" height="28"/></a>
-<a href="https://github.com/joellacerdev"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" height="28"/></a>
 <a href="https://github.com/joellacerdev"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" height="28"/></a>
 </p>
 </div>
