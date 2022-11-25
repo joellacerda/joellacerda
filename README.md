@@ -29,7 +29,6 @@ My name is Joel Lacerda, a Full-Stack Development student at Digital College.\
 
 - <a href="https://joellacerda.github.io/" target="_blank">My website.</a>
 - <a href="https://joellacerda.github.io/freeCodeCamp/" target="_blank">My freeCodeCamp certification projects.</a>
-- <a href="https://github.com/joellacerda/100-days-of-code/blob/master/log.md" target="_blank">100 Days of Code Challenge log.</a>
 
 ##
 
