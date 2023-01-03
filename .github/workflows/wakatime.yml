@@ -17,6 +17,7 @@ jobs:
           COMMIT_USERNAME: "joellacerda"
           COMMIT_EMAIL: "98550669+joellacerda@users.noreply.github.com"
           SHOW_UPDATED_DATE: "True"
+          SHOW_LINES_OF_CODE: "True"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_COMMIT: "False"
           SHOW_DAYS_OF_WEEK: "False"
@@ -24,3 +25,4 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_SHORT_INFO: "False"
           SHOW_LOC_CHART: "False"
+          SHOW_PROJECTS: "False"
