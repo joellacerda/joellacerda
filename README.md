@@ -28,13 +28,14 @@ My name is Joel Lacerda, a Full-Stack Development student at Digital College.\
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='20px' height='20px'> Projects and Achievements
 
 - <a href="https://joellacerda.github.io/" target="_blank">My website.</a>
-- <a href="https://joellacerda.github.io/freeCodeCamp/" target="_blank">My freeCodeCamp certification projects.</a>
+- <a href="https://joellacerda.github.io/freeCodeCamp/" target="_blank">My freeCodeCamp web design projects.</a>
 
 ##
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='20px' height='20px'> Certifications
 
 - <a href="https://www.freecodecamp.org/certification/joellacerda/responsive-web-design">Responsive Web Design</a>
+- <a href="https://www.freecodecamp.org/certification/joellacerda/javascript-algorithms-and-data-structures">JavaScript Algorithms and Data Structures</a>
 
 ##
 
