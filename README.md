@@ -57,7 +57,6 @@ My passion for learning new languages and my love for technology have resulted i
 
 ##
 
-<div align="center">
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2017%20mins-blue)
 
@@ -87,4 +86,3 @@ Mac                      2 hrs 33 mins       ███████████�
 
  Last Updated on 03/01/2023 18:40:13 UTC
 <!--END_SECTION:waka-->
-</div>
