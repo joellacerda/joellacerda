@@ -56,7 +56,7 @@ My passion for learning new languages and my love for technology have resulted i
 ##
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2037%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22%20Thousand%20lines%20of%20code-blue)
 
@@ -64,19 +64,19 @@ My passion for learning new languages and my love for technology have resulted i
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 59 mins        █████████████░░░░░░░░░░░░   55.14% 
-Java                     1 hr 18 mins        █████████░░░░░░░░░░░░░░░░   36.28% 
-Markdown                 18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.58%
+JavaScript               2 hrs 21 mins       ██████████████░░░░░░░░░░░   59.15% 
+Java                     1 hr 18 mins        ████████░░░░░░░░░░░░░░░░░   32.71% 
+Markdown                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.14%
 
 🔥 Editors: 
-VS Code                  2 hrs 21 mins       ████████████████░░░░░░░░░   65.34% 
-Eclipse                  1 hr 14 mins        ████████░░░░░░░░░░░░░░░░░   34.66%
+VS Code                  2 hrs 44 mins       █████████████████░░░░░░░░   68.75% 
+Eclipse                  1 hr 14 mins        ███████░░░░░░░░░░░░░░░░░░   31.25%
 
 💻 Operating System: 
-Mac                      3 hrs 36 mins       █████████████████████████   100.0%
+Mac                      3 hrs 59 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 04/01/2023 18:43:06 UTC
+ Last Updated on 05/01/2023 18:43:21 UTC
 <!--END_SECTION:waka-->
