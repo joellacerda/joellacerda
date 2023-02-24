@@ -13,7 +13,7 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-#           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           COMMIT_USERNAME: "joellacerda"
           COMMIT_EMAIL: "98550669+joellacerda@users.noreply.github.com"
           SHOW_UPDATED_DATE: "True"
@@ -26,4 +26,3 @@ jobs:
           SHOW_SHORT_INFO: "False"
           SHOW_LOC_CHART: "False"
           SHOW_PROJECTS: "False"
-          TIME_RANGE: "last_30_days"
