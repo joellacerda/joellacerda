@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   schedule:
     # Runs at 12am IST
-    - cron: '0 1 * * 1,3,5'
+    - cron: '30 18 * * *'
   workflow_dispatch:
 jobs:
   update-readme:
@@ -16,7 +16,6 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           COMMIT_USERNAME: "joellacerda"
           COMMIT_EMAIL: "98550669+joellacerda@users.noreply.github.com"
-          SHOW_UPDATED_DATE: "True"
           SHOW_LINES_OF_CODE: "True"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_COMMIT: "False"
