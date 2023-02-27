@@ -18,11 +18,8 @@ My name is Joel Lacerda, a Full-Stack Development student at Digital College.\
 <a href="https://github.com/joellacerda"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/></a>
 <a href="https://github.com/joellacerda"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/></a>
 <a href="https://github.com/joellacerda"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
-<!-- <br>
-<a href="https://github.com/joellacerda"><img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" height="28"/></a>
-<a href="https://github.com/joellacerda"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28"/></a>
+<br>
 <a href="https://github.com/joellacerda"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black" height="28"/></a>
-<a href="https://github.com/joellacerda"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" height="28"/></a> -->
 </p>
 </div>
 
@@ -59,5 +56,4 @@ My passion for learning new languages and my love for technology have resulted i
 
 ##
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<figure><embed src="https://wakatime.com/share/@62cd33e0-aeea-4c4f-a8cc-b4314556e6c7/0d5a05fd-86a2-4359-ac67-484462be3745.svg"></embed></figure>
