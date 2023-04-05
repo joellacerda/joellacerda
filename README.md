@@ -32,6 +32,7 @@ My name is Joel Lacerda, a Full-Stack Development student at Digital College.\
 - <a href="https://joellacerda.github.io/" target="_blank">My website</a>
 - <a href="https://joellacerda.github.io/random-quote-machine/" target="_blank">Random Quote Machine</a>
 - <a href="https://joellacerda.github.io/markdown-previewer-app/" target="_blank">Markdown Previewer App</a>
+- <a href="https://joellacerda.github.io/drum-machine/" target="_blank">Drum Machine</a>
 
 ##
 
