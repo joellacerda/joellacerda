@@ -18,10 +18,9 @@ My name is Joel Lacerda, a Full-Stack Development student at Digital College.\
 <a href="https://github.com/joellacerda"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/></a>
 <a href="https://github.com/joellacerda"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/></a>
 <a href="https://github.com/joellacerda"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
-<br>
 <a href="https://github.com/joellacerda"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black" height="28"/></a>
-<a href="https://github.com/joellacerda"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="28"/></a>
-<a href="https://github.com/joellacerda"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="28"/></a>
+<!-- <a href="https://github.com/joellacerda"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="28"/></a>
+<a href="https://github.com/joellacerda"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="28"/></a> -->
 </p>
 </div>
 
