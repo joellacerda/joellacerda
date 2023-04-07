@@ -28,11 +28,11 @@ My name is Joel Lacerda, a Full-Stack Development student at Digital College.\
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='20px' height='20px'> Projects and Achievements
 
-- <a href="https://joellacerda.github.io/" target="_blank">My website</a>
 - <a href="https://joellacerda.github.io/random-quote-machine/" target="_blank">Random Quote Machine</a>
 - <a href="https://joellacerda.github.io/markdown-previewer-app/" target="_blank">Markdown Previewer App</a>
 - <a href="https://joellacerda.github.io/drum-machine/" target="_blank">Drum Machine</a>
 - <a href="https://joellacerda.github.io/javascript-calculator/" target="_blank">JavaScript Calculator</a>
+- <a href="https://joellacerda.github.io/pomodoro-timer/" target="_blank">Pomodoro Timer</a>
 
 ##
 
@@ -40,6 +40,7 @@ My name is Joel Lacerda, a Full-Stack Development student at Digital College.\
 
 - <a href="https://www.freecodecamp.org/certification/joellacerda/responsive-web-design">Responsive Web Design</a>
 - <a href="https://www.freecodecamp.org/certification/joellacerda/javascript-algorithms-and-data-structures">JavaScript Algorithms and Data Structures</a>
+- <a href="https://www.freecodecamp.org/certification/joellacerda/front-end-development-libraries">Front End Development Libraries</a>
 
 ##
 
