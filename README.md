@@ -61,4 +61,4 @@ My passion for learning new languages and my love for technology have resulted i
 
 ##
 
-   <img src="https://wakatime.com/share/@62cd33e0-aeea-4c4f-a8cc-b4314556e6c7/6f796bbd-6323-4c42-bfd7-360211238f80.svg" height="400" width="600">
+   <img src="https://wakatime.com/share/@62cd33e0-aeea-4c4f-a8cc-b4314556e6c7/7cc47104-5c46-47bd-adc7-e0ff90d0512b.svg" height="400" width="600">
