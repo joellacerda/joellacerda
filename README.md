@@ -1,6 +1,6 @@
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='20px' height='20px'> Hello!
 
-My name is Joel Lacerda, a Full-Stack Development student at Digital College.\
+My name is Joel Lacerda, a Full-Stack Development student at Digital College and iOS developer at Apple Developer Academy.\
 📍 Currently living in Fortaleza, Brazil\
 💻 Computer Science Student at the University of the People (UoPeople)\
 🎓 Bachelor of Laws from the Universidade Federal do Ceará (UFC)\
