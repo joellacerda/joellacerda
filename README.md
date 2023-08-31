@@ -2,7 +2,7 @@
 
 My name is Joel Lacerda, a Full-Stack Development student at Digital College and iOS developer at Apple Developer Academy.\
 📍 Currently living in Fortaleza, Brazil\
-💻 Computer Science Student at the University of the People (UoPeople)\
+💻 Computer Science Student at Estácio\
 🎓 Bachelor of Laws from the Universidade Federal do Ceará (UFC)\
 ⚖️ Worked as a Legal Advisor for the State Prosecution Office during 2017-2021
 
