@@ -1,8 +1,9 @@
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='20px' height='20px'> Hello!
 
-My name is Joel Lacerda, former Full-Stack Development student at Digital College and iOS developer at Apple Developer Academy.\
+👨🏻‍💻 My name is Joel Lacerda\
 📍 Currently living in Fortaleza, Brazil\
-💻 Computer Science Student at Estácio\
+📱 iOS developer at Apple Developer Academy\
+💻 Computer Science student at Estácio\
 🎓 Bachelor of Laws from the Universidade Federal do Ceará (UFC)\
 ⚖️ Worked as a Legal Advisor for the State Prosecution Office during 2017-2021
 
@@ -83,7 +84,7 @@ My name is Joel Lacerda, former Full-Stack Development student at Digital Colleg
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='20px' height='20px'> About Me
 
-My passion for learning new languages and my love for technology have resulted in my ever-increasing interest in learning to code. My goals include working with web development and/or mobile development, with a focus on Swift. Outside of the digital world (but not always), my hobbies include reading novels and fiction, listening to music, and playing games with my friends.
+My passion for learning new languages and my love for technology have resulted in my ever-increasing interest in learning to code. My goals include working with mobile development, with a focus on Swift. Outside of the digital world (but not always), my hobbies include reading novels and fiction, listening to music, and playing games with my friends.
 
 ##
 
