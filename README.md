@@ -1,4 +1,4 @@
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='20px' height='20px'> Hello!
+### Hello!
 
 👨🏻‍💻 My name is Joel Lacerda\
 🇧🇷 Currently living in Fortaleza, Brazil\
@@ -9,7 +9,7 @@
 
 ##
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='20px' height='20px'> Skills
+### Skills
 <div>
 <p align="left">
 <a href="https://github.com/joellacerda"><img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/></a>
@@ -30,7 +30,7 @@
 
 ##
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='20px' height='20px'> Projects and Achievements
+### Projects and Achievements
 
 <table>
  <thead>
@@ -63,7 +63,7 @@
 
 ##
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='20px' height='20px'> Certifications
+### Certifications
 
 - <a href="https://www.freecodecamp.org/certification/joellacerda/responsive-web-design">Responsive Web Design</a>
 - <a href="https://www.freecodecamp.org/certification/joellacerda/javascript-algorithms-and-data-structures">JavaScript Algorithms and Data Structures</a>
@@ -72,7 +72,7 @@
 
 ##
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='20px' height='20px'> Socials
+### Socials
 
 <a href="mailto:joellacerdaol@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://instagram.com/joellacerda"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -82,7 +82,7 @@
 
 ##
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='20px' height='20px'> About Me
+### About Me
 
 My passion for learning new languages and my love for technology have resulted in my ever-increasing interest in learning to code. My goals include working with mobile development, with a focus on Swift. Outside of the digital world (but not always), my hobbies include reading novels and fiction, listening to music, and playing games with my friends.
 
