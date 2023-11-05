@@ -30,7 +30,28 @@
 
 ##
 
-### Projects and Achievements
+### iOS Dev Projects and Achievements
+
+<table>
+ <tbody>
+  <tr>
+   <td><a href="https://github.com/joellacerda/Memorize" target="_blank">Memorize</a></td>
+  </tr>
+  <tr>
+   <td><a href="https://github.com/joellacerda/WeSplit" target="_blank">WeSplit</a></td></td>
+  </tr>
+  <tr>
+   <td><a href="https://github.com/joellacerda/GuessTheFlag" target="_blank">GuessTheFlag</a></td></td>
+  </tr>
+  <tr>
+   <td><a href="https://github.com/joellacerda/BetterRest" target="_blank">BetterRest</a></td>
+  </tr>
+ </tbody>
+</table>
+
+##
+
+### Web Dev Projects and Achievements
 
 <table>
  <thead>
