@@ -36,15 +36,19 @@
  <tbody>
   <tr>
    <td><a href="https://github.com/joellacerda/Memorize" target="_blank">Memorize</a></td>
+   <td><a href="https://github.com/joellacerda/Scrumdinger" target="_blank">Scrumdinger</a></td>
   </tr>
   <tr>
    <td><a href="https://github.com/joellacerda/WeSplit" target="_blank">WeSplit</a></td></td>
+ <td><a href="https://github.com/joellacerda/WordScramble" target="_blank">WordScramble</a></td>
   </tr>
   <tr>
    <td><a href="https://github.com/joellacerda/GuessTheFlag" target="_blank">GuessTheFlag</a></td></td>
+ <td><a href="https://github.com/joellacerda/iTour" target="_blank">iTour</a></td>
   </tr>
   <tr>
    <td><a href="https://github.com/joellacerda/BetterRest" target="_blank">BetterRest</a></td>
+   <td><a href="https://github.com/joellacerda/iExpense" target="_blank">iExpense</a></td>
   </tr>
  </tbody>
 </table>
