@@ -3,7 +3,7 @@
 👨🏻‍💻 My name is Joel Lacerda\
 🇧🇷 Currently living in Fortaleza, Brazil\
 📱 iOS developer at Apple Developer Academy\
-💻 Computer Science student at Estácio\
+💻 Aspiring Computer Science student\
 🎓 Bachelor of Laws from the Universidade Federal do Ceará (UFC)\
 ⚖️ Worked as a Legal Advisor for the State Prosecution Office during 2017-2021
 
