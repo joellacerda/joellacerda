@@ -111,6 +111,6 @@
 
 My passion for learning new languages and my love for technology have resulted in my ever-increasing interest in learning to code. My goals include working with mobile development, with a focus on Swift. Outside of the digital world (but not always), my hobbies include reading novels and fiction, listening to music, and playing games with my friends.
 
-##
+<!-- ##
 
-   <img src="https://wakatime.com/share/@62cd33e0-aeea-4c4f-a8cc-b4314556e6c7/7cc47104-5c46-47bd-adc7-e0ff90d0512b.svg" height="400" width="600">
+<img src="https://wakatime.com/share/@62cd33e0-aeea-4c4f-a8cc-b4314556e6c7/7cc47104-5c46-47bd-adc7-e0ff90d0512b.svg" height="400" width="600"> -->
