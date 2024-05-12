@@ -37,6 +37,7 @@
   <tr>
    <td><a href="https://github.com/joellacerda/Memorize" target="_blank">Memorize</a></td>
    <td><a href="https://github.com/joellacerda/Scrumdinger" target="_blank">Scrumdinger</a></td>
+   <td><a href="https://github.com/joellacerda/Hike-App" target="_blank">Hike App</a></td>
   </tr>
   <tr>
    <td><a href="https://github.com/joellacerda/WeSplit" target="_blank">WeSplit</a></td></td>
