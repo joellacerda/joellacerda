@@ -2,10 +2,9 @@
 
 👨🏻‍💻 My name is Joel Lacerda\
 🇧🇷 Currently living in Fortaleza, Brazil\
-📱 Apple Developer Academy alumni\
+📱 Apple Developer Academy alumni\ and intern iOS developer at IREDE\
 💻 Computer Science student at Universidade Estadual do Ceará (UECE)\
 🎓 Bachelor of Laws from the Universidade Federal do Ceará (UFC)\
-⚖️ Worked as a Legal Advisor for the State Prosecution Office during 2017-2021
 
 ##
 
