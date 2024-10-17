@@ -4,7 +4,7 @@
 🇧🇷 Currently living in Fortaleza, Brazil\
 📱 Apple Developer Academy alumni and intern iOS developer at IREDE\
 💻 Computer Science student at Universidade Estadual do Ceará (UECE)\
-🎓 Bachelor of Laws from the Universidade Federal do Ceará (UFC)\
+🎓 Bachelor of Laws from the Universidade Federal do Ceará (UFC)
 
 ##
 
