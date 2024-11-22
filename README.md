@@ -6,7 +6,7 @@
 💻 Computer Science student at Universidade Estadual do Ceará (UECE)\
 🎓 Bachelor of Laws from the Universidade Federal do Ceará (UFC)
 
-##
+---
 
 ### Skills
 <div>
@@ -27,75 +27,44 @@
 </p>
 </div>
 
-##
+---
 
-### iOS Dev Projects and Achievements
+### Personal Portfolio  
 
-<table>
- <tbody>
-  <tr>
-   <td><a href="https://github.com/joellacerda/Memorize" target="_blank">Memorize</a></td>
-   <td><a href="https://github.com/joellacerda/Scrumdinger" target="_blank">Scrumdinger</a></td>
-   <td><a href="https://github.com/joellacerda/Hike-App" target="_blank">Hike App</a></td>
-  </tr>
-  <tr>
-   <td><a href="https://github.com/joellacerda/WeSplit" target="_blank">WeSplit</a></td></td>
- <td><a href="https://github.com/joellacerda/WordScramble" target="_blank">WordScramble</a></td>
-  </tr>
-  <tr>
-   <td><a href="https://github.com/joellacerda/GuessTheFlag" target="_blank">GuessTheFlag</a></td></td>
- <td><a href="https://github.com/joellacerda/iTour" target="_blank">iTour</a></td>
-  </tr>
-  <tr>
-   <td><a href="https://github.com/joellacerda/BetterRest" target="_blank">BetterRest</a></td>
-   <td><a href="https://github.com/joellacerda/iExpense" target="_blank">iExpense</a></td>
-  </tr>
- </tbody>
-</table>
+| **Project** | **Description** |
+|-------------|-----------------|
+| [Moonshot]() |An educational app inspired by the Apollo 11 mission, designed to delve into historical details and insights about the space race. |
+| [Scrumdinger](https://github.com/joellacerda/Scrumdinger) | Stand-up meeting management app inspired by Apple tutorials. |
+| [Hike App](https://github.com/joellacerda/Hike-App) | App displaying animations and information about hiking trails. |
+| [WordScramble](https://github.com/joellacerda/WordScramble) | Word game designed to test vocabulary. |
+| [GuessTheFlag](https://github.com/joellacerda/GuessTheFlag) | Educational game to learn flags from different countries. |
+| [BetterRest](https://github.com/joellacerda/BetterRest) | App suggesting sleep schedules based on sleep cycle calculations, using CoreML for machine learning. |
+| [iTour](https://github.com/joellacerda/iTour) | Tourist information app with map integration. |
+| [iExpense](https://github.com/joellacerda/iExpense) | Expense manager focused on simplicity. |
+| [WeSplit](https://github.com/joellacerda/WeSplit) | Simple bill-splitting calculator. |
+| [Memorize](https://github.com/joellacerda/Memorize) | Memory game based on the Stanford "Developing Apps for iOS" course. |
 
-##
+---
 
-### Web Dev Projects and Achievements
+### Certifications  
 
-<table>
- <thead>
-  <th>Front End Development Libraries</th>
-  <th>Back End Development and APIs</th>
- </thead>
- <tbody>
-  <tr>
-   <td><a href="https://joellacerda.github.io/random-quote-machine/" target="_blank">Random Quote Machine</a></td>
-   <td><a href="https://github.com/joellacerda/boilerplate-project-timestamp" target="_blank">Timestamp Microservice</a></td>
-  </tr>
-  <tr>
-   <td><a href="https://joellacerda.github.io/markdown-previewer-app/" target="_blank">Markdown Previewer App</a></td>
-   <td><a href="https://github.com/joellacerda/boilerplate-project-headerparser" target="_blank">Request Header Parser Microservice</a></td></td>
-  </tr>
-  <tr>
-   <td><a href="https://joellacerda.github.io/drum-machine/" target="_blank">Drum Machine</a></td>
-   <td><a href="https://github.com/joellacerda/boilerplate-project-urlshortener" target="_blank">URL Shortener Microservice</a></td></td>
-  </tr>
-  <tr>
-   <td><a href="https://joellacerda.github.io/javascript-calculator/" target="_blank">JavaScript Calculator</a></td>
-   <td><a href="https://github.com/joellacerda/boilerplate-project-exercisetracker" target="_blank">Exercise Tracker</a></td></td>
-  </tr>
-  <tr>
-   <td><a href="https://joellacerda.github.io/pomodoro-timer/" target="_blank">Pomodoro Timer</a></td>
-   <td><a href="https://github.com/joellacerda/boilerplate-project-filemetadata" target="_blank">File Metadata Microservice</a></td></td>
-  </tr>
- </tbody>
-</table>
+**iOS Development**  
+- [iOS Foundation Initial and Continuing Training (120h) - Apple Developer Academy | IFCE](https://cvws.icloud-content.com/B/ATIBVYo_gyXTvZU9PbkO7Q3tSCskAfbQv_ENPzTG48On9RxWt2w8C5pp/Apple+Academy+Foundation.jpg?o=Aghp1wowwNlRJ8fuHTn3cRZ3hI51m65DtOm9jla3RdQY&v=1&x=3&a=CAogSPfIFbRpvY42Q41bDe3RH1pu6Frczv1dzqtuEVvHPhISaxDr5tHI9jEY68OtyvYxIgEAUgTtSCskWgQ8C5ppaiX5dLvqNw5zPferZiIdu2bPxNQJJLQkRFDk4B5tT47GUpVsww6XciXjKahV00BukUe1Tg4RSMTKQHuyqhLUKrpMZ5H1lUOhKhH48h1j&e=1715458499&fl=&r=dc42f3b5-5ecf-4095-b469-8b9e5204c6fd-1&k=qAQXgLHNG3-AnMDp04gihg&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=157&s=l8V0KR1kgMU6FKVJ4-W5Qjh_4C4&cd=i)  
+- [Introduction to iOS Development (120h) - IREDE](https://cvws.icloud-content.com/B/AWCRg2Snfq3RcxomfP8AsSABs2A8AfIHGNg_8K0lVtPjecY3bbHLg9Sl/Introdução+ao+Desenvolvimento+iOS.pdf?o=Ar0erf0c2_7LSXBx1KG9OxT1t8KdM-kJmBQntHHwDtNj&v=1&x=3&a=CAoggX-gWEhjRa5OusQtN1VeoFojz7rPI8uTvrKjMddxsmwSaxCF-8zI9jEYhdioyvYxIgEAUgQBs2A8WgTLg9SlaiVgA6osUVPuZtWFCuwlPvmK7bX2_4AdZotf9MEbysaj4-AirjY8ciW29GTblltHo6rzshzH3SOHRjQ2IS9pnzWQ4_NJydMLfD5aEfcZ&e=1715458419&fl=&r=760db2fc-8308-4d27-a9ba-d09f47a91f0f-1&k=BrWWq4Opw_gDSocpAYAA9w&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=157&s=wMnhDC9x3XWY_7ofppIB3dk-YNY&cd=i)  
 
-##
+**Web Development**  
+- [Back End Development and APIs (300h) - freeCodeCamp](https://www.freecodecamp.org/certification/joellacerda/back-end-development-and-apis)  
+- [Front End Development Libraries (300h) - freeCodeCamp](https://www.freecodecamp.org/certification/joellacerda/front-end-development-libraries)  
+- [JavaScript Algorithms and Data Structures (300h) - freeCodeCamp](https://www.freecodecamp.org/certification/joellacerda/javascript-algorithms-and-data-structures)  
+- [Responsive Web Design (300h) - freeCodeCamp](https://www.freecodecamp.org/certification/joellacerda/responsive-web-design)  
+- [Full Stack Web Development (192h) - Digital College](https://cvws.icloud-content.com/B/ATpMYC9oqgrnFe9i_mFn3UKZtBfMAXAquH284keJaxRltcjoKwyNLbGq/Web+Dev.pdf?o=AhnTc6hDGTT0YkubDiwjpFgA_XTym-wNyfSAbHxec7DH&v=1&x=3&a=CAogudtUlH5gxTW4xdPCAqraiNr8p3NA9Zttn__j1Daj6a4SaxD3usXI9jEY95ehyvYxIgEAUgSZtBfMWgSNLbGqaiUkJ44m7TqJ3AjiZVZeRYHPDposxIuya6ldizx3yksUAeyu1nUzciURTZ88CpPZtxoIvEL-sXCgBgPflSeFYuTYFpTeHzB6nCdxWbX4&e=1715458296&fl=&r=7cbce6a2-8c55-431c-9314-f788cc7630c4-1&k=jTNQBKIgE9bY9U-gDnOJSA&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=157&s=m5Ra6KHPW_6A41Ar8XtcgVDrszA&cd=i)  
+- [Banco PAN Java Developer (114h) - Dio](https://hermes.digitalinnovation.one/certificates/03DCE309.pdf?_gl=1*pfaqaa*_ga*MzYyNzU5MDkwLjE2NzY0MDk2MzE.*_ga_7GXMH3CQ72*MTY4MTMyOTk2NC4xMDYuMS4xNjgxMzM1MTczLjM2LjAuMA..)  
+- [Data Structures (40h) - IREDE](https://cvws.icloud-content.com/B/AXaNF79sv64e6KYcZOZchBYxjXTNAZm2SBQ3qvmSTQHiFuG4Q5MxSjfa/Estrutura+de+Dados.pdf?o=Ask0KHmCiykDzHLS8SRoHuVYWGw2CBL0H_Wn35E_ouMi&v=1&x=3&a=CAogQdR3lJJ5yW3R9z4GsEdr07ReEn0jLUfTF_aqNPCjbBwSaxDZ1drI9jEY2bK2yvYxIgEAUgQxjXTNWgQxSjfaaiUc8gmsNR1uewPASrk7QGkj5IBCFw4l97RBycS-pR6dpSrSXEzsciWvj_lhMAh4KcJEIUXhP-JXWWS57Am0wo67V-blrrp-AzxE7fnn&e=1715458644&fl=&r=f3dbf5a8-a0b2-458e-bd5e-3f55d7a41413-1&k=q0ZuRl591go8VP183IatMA&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=157&s=yPt4-I48pHCrfnEhNQ6f97qo96o&cd=i)  
 
-### Certifications
+**English Certification**  
+- [Test of English as a Foreign Language (TOEFL)](https://media.licdn.com/dms/image/D4D2DAQHM7uWa_GsrTg/profile-treasury-image-shrink_800_800/0/1717976148044?e=1719874800&v=beta&t=uMatPa4rOwDU_KlLez0ov49fRFiRAVkWWNApo1rLR18)  
 
-- <a href="https://www.freecodecamp.org/certification/joellacerda/responsive-web-design">Responsive Web Design</a>
-- <a href="https://www.freecodecamp.org/certification/joellacerda/javascript-algorithms-and-data-structures">JavaScript Algorithms and Data Structures</a>
-- <a href="https://www.freecodecamp.org/certification/joellacerda/front-end-development-libraries">Front End Development Libraries</a>
-- <a href="https://www.freecodecamp.org/certification/joellacerda/back-end-development-and-apis">Back End Development and APIs</a>
-
-##
+---
 
 ### Socials
 
@@ -103,14 +72,9 @@
 <a href="https://instagram.com/joellacerda"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://discordapp.com/users/299958466322104322"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/joellacerdaol/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.freecodecamp.org/joellacerda"><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" /></a>
 
-##
+---
 
 ### About Me
 
 My passion for learning new languages and my love for technology have resulted in my ever-increasing interest in learning to code. My goals include working with mobile development, with a focus on Swift. Outside of the digital world (but not always), my hobbies include reading novels and fiction, listening to music, and playing games with my friends.
-
-<!-- ##
-
-<img src="https://wakatime.com/share/@62cd33e0-aeea-4c4f-a8cc-b4314556e6c7/7cc47104-5c46-47bd-adc7-e0ff90d0512b.svg" height="400" width="600"> -->
