@@ -3,7 +3,7 @@
 👨🏻‍💻 My name is Joel Lacerda\
 🇧🇷 Currently living in Fortaleza, Brazil\
 📱 Apple Developer Academy alumni and intern iOS developer at IREDE\
-💻 Computer Science student at Universidade Estadual do Ceará (UECE)\
+💻 Systems Analysis and Development student at Universidade de Fortaleza (UNIFOR)\
 🎓 Bachelor of Laws from the Universidade Federal do Ceará (UFC)
 
 ---
@@ -69,8 +69,6 @@
 ### Socials
 
 <a href="mailto:joellacerdaol@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://instagram.com/joellacerda"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://discordapp.com/users/299958466322104322"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/joellacerdaol/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ---
